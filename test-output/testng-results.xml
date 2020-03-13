@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26766" started-at="2020-03-12T17:29:59 IST" finished-at="2020-03-12T17:30:26 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26766" started-at="2020-03-12T17:29:59 IST" finished-at="2020-03-12T17:30:26 IST">
+      <class name="test.DecyphaAnnouncementValidation">
+        <test-method status="PASS" signature="setUpTest()[pri:0, instance:test.DecyphaAnnouncementValidation@6c49835d]" name="setUpTest" is-config="true" duration-ms="8472" started-at="2020-03-12T17:29:59 IST" finished-at="2020-03-12T17:30:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="AnnouncementValidate()[pri:0, instance:test.DecyphaAnnouncementValidation@6c49835d]" name="AnnouncementValidate" duration-ms="18205" started-at="2020-03-12T17:30:08 IST" finished-at="2020-03-12T17:30:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AnnouncementValidate -->
+        <test-method status="PASS" signature="tearDownTest()[pri:0, instance:test.DecyphaAnnouncementValidation@6c49835d]" name="tearDownTest" is-config="true" duration-ms="0" started-at="2020-03-12T17:30:26 IST" finished-at="2020-03-12T17:30:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+      </class> <!-- test.DecyphaAnnouncementValidation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
